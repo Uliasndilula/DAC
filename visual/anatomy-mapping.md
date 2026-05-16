@@ -24,3 +24,14 @@
 | Stage 3 | Cheek → Speaking mouth → Closed mouth |
 | Stage 4 | Closed mouth → Jaw → Neck base |
 | Stage 5 | Neck base → Neck densification → Neck turn |
+
+## Vortex nodes and their structural anchors
+
+| Vortex node | Uses structural node | Asymmetric operation |
+|-------------|---------------------|----------------------|
+| 3 (eyelids) | 4 (eyes) | Squint / asymmetric intake filtering |
+| 9 (jaw) | 7–8 (mouth) | Asymmetric chewing / load redistribution |
+
+| 12 (neck turn) | 10–11 (neck base + densification) | Twisting around vertical axis / atmospheric release |
+
+**Principle:** Vortex does not exist alone. It activates structural nodes in asymmetric mode.
